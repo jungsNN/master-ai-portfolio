@@ -1,6 +1,6 @@
 # The Full World Artificial Intelligence
 
-A.I. modeling that encompasses multiple deep-learning techniques:
+A.I. modeling that encompasses multiple facets of deep-learning:
 * Convolutional Neural Network
 * Variational AutoEncoder
 * Mixture Density Network
