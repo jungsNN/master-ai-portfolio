@@ -9,4 +9,4 @@ etc.
 
 [//]: # (Image References)
 
-[image1]: ./full-world-ai/The-Full-World-Model.png "The Full World Model"
+[image1]: ./images/The-Full-World-Model.png "The Full World Model"
