@@ -11,3 +11,4 @@ etc.
 
 [image1]: ./images/The-Full-World-Model.png "The Full World Model"
 ![Sample Output][image1]
+[SuperDataScience](https://www.superdatascience.com)
