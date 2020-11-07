@@ -10,3 +10,4 @@ etc.
 [//]: # (Image References)
 
 [image1]: ./images/The-Full-World-Model.png "The Full World Model"
+![Sample Output][image1]
